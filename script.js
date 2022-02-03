@@ -1,5 +1,7 @@
 console.log('Hello Carousel!');
 
+//https://betterprogramming.pub/make-a-slideshow-with-automatic-and-manual-controls-using-html-css-and-javascript-b7e9305168f9
+
 function init() {
   const items = document.querySelectorAll('.carousel-item');
 
